@@ -33,6 +33,13 @@ cc.Class({
     ShowRankPanel(){
        // console.log("ShowRankPanel:"+this.rankPanel.active);
         this.rankPanel.active=true;
+
+        this.cannons = [];
+        this.cannons = this.content.getChildren();
+        this.cannons.forEach((n)=>{
+            n.destroy();
+        })
+        
        // console.log("ShowRankPanel:"+this.rankPanel.active);
         this.GetFriendCloudStorage();
     },

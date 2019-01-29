@@ -41,8 +41,8 @@
     },
     "_scale": {
       "__type__": "cc.Vec3",
-      "x": 0.10305989583333333,
-      "y": 0.10305989583333333,
+      "x": 0.5022829628770916,
+      "y": 0.5022829628770916,
       "z": 1
     },
     "_quat": {
@@ -496,10 +496,10 @@
     "_N$startAxis": 0,
     "_N$paddingLeft": 0,
     "_N$paddingRight": 0,
-    "_N$paddingTop": 0,
+    "_N$paddingTop": 100,
     "_N$paddingBottom": 0,
     "_N$spacingX": 0,
-    "_N$spacingY": 20,
+    "_N$spacingY": 50,
     "_N$verticalDirection": 1,
     "_N$horizontalDirection": 0,
     "_id": "eetyzJUUVFYLFpyIcoxKDj"
@@ -559,7 +559,7 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "9bbda31e-ad49-43c9-aaf2-f7d9896bac69"
+      "__uuid__": "b18b0057-7ec9-4548-9eeb-a97d8d73187d"
     },
     "_type": 1,
     "_sizeMode": 0,
